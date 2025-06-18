@@ -8,7 +8,7 @@ form{
     background-color: lightgreen;
     padding: 10px;
     border-radius: 5px;
-    display: inline;
+    display: inline-block;
 }
 .name{
     font-family: 'Times New Roman', Times, serif;
